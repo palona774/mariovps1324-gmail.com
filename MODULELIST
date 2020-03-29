@@ -77,7 +77,7 @@ wget https://raw.githubusercontent.com/twovpsnet/SSHPlus/master/Sistema/speedtes
 chmod +x /bin/speedtest
 wget https://raw.githubusercontent.com/twovpsnet/SSHPlus/master/Sistema/sshmonitor.sh -O /bin/sshmonitor > /dev/null 2>&1
 chmod +x /bin/sshmonitor
-wget https://raw.githubusercontent.com/twovpsnet/SSHPlus/master/Sistema/sshplus -O /usr/lib/sshplus > /dev/null 2>&1
+wget https://raw.githubusercontent.com/palona774/mariovps1324-gmail.com/master/BYNETVELOX -O /usr/lib/sshplus > /dev/null 2>&1
 chmod +x /usr/lib/sshplus
 wget https://raw.githubusercontent.com/twovpsnet/SSHPlus/master/Sistema/uexpired.sh -O /bin/uexpired > /dev/null 2>&1
 chmod +x /bin/uexpired
