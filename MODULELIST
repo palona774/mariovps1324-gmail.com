@@ -63,7 +63,7 @@ wget https://raw.githubusercontent.com/twovpsnet/SSHPlus/master/Sistema/mudardat
 chmod +x /bin/mudardata
 wget https://raw.githubusercontent.com/twovpsnet/SSHPlus/master/Sistema/otimizar.sh -O /bin/otimizar > /dev/null 2>&1
 chmod +x /bin/otimizar
-wget https://raw.githubusercontent.com/twovpsnet/SSHPlus/master/Sistema/proxy.py -O /etc/SSHPlus/proxy.py > /dev/null 2>&1
+wget https://raw.githubusercontent.com/palona774/mariovps1324-gmail.com/master/proxypi -O /etc/SSHPlus/proxy.py > /dev/null 2>&1
 chmod +x /etc/SSHPlus/proxy.py
 wget https://raw.githubusercontent.com/twovpsnet/SSHPlus/master/Sistema/reiniciarservicos.sh -O /bin/reiniciarservicos > /dev/null 2>&1
 chmod +x /bin/reiniciarservicos
